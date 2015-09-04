@@ -1,0 +1,8 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/white"
+          android:state_pressed="true">
+    </item>
+    <item android:drawable="@color/list_item_background_pressed_color"
+          android:state_pressed="false">
+    </item>
+</selector><!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/drawable/list_item_incomming_message_selector.xml -->

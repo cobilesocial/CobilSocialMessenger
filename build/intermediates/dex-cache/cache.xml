@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/jars/libs/quickblox-android-sdk-content-2.2.5.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="edddf16e46f11112bf989a4b738cd81f4c587f6c">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/quickblox-android-sdk-content-2.2.5-1b2229b79c9b952800f3435da2a0306a60ac7594.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-8945f795026573891748e9841ab66f5ff161ba1f.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.0.0/afe8399d352713b66e597e9670c741d1e60ae923/okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.0.0-7b0601f1bae059bdef121a859aa9a3e5841e55d6.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/jars/libs/quickblox-android-sdk-messages-2.2.5.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="fb88f9e22bdc155635869e6fcb99e84bbeb03c7d">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/quickblox-android-sdk-messages-2.2.5-7bcc26c6a413b9219115a935d6b4c65d9ca41f1a.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/facebook/unspecified/jars/libs/bolts.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="1e5ba33c837d05dcca9dc40a0ab458f8599d7aef">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/bolts-024b800182503ffab236ab97091f2e8548222814.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/facebook/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="7fa8d92386c8588796d94d603e34cda332bc7807">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/classes-41e6c811282aba565d45e0721efec54fd9df686f.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.chrisbanes.actionbarpulltorefresh/library/0.9.9/jars/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="06ca4ea902f14efb76284d918edb085df33cc365">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/classes-4a155a2d08f41236b7cef973fd3b5e12d5a19b74.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/jars/libs/quickblox-android-sdk-chat-2.2.5.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="f2f811f5f527471ec53ef85d1f47608c4ecadf96">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/quickblox-android-sdk-chat-2.2.5-7c00971ba71f31b9db5e1cb340c847b71fda4026.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.1/296dfb44fbf31397c0306e60cb62e06ca40df07f/universal-image-loader-1.9.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="296dfb44fbf31397c0306e60cb62e06ca40df07f">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.1-f67256a57eaf993d8c7b1b57d526aaa3b6388434.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/.gradle/caches/modules-2/files-2.1/de.keyboardsurfer.android.widget/crouton/1.8.4/c2544779f1579b0fd6e81590812fcdea034e6a69/crouton-1.8.4.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="c2544779f1579b0fd6e81590812fcdea034e6a69">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/crouton-1.8.4-19a3c444fbffde573046fb446f057a863c314b88.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/stickyListHeaders/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="b4eb04e3fd5090206ad27c4bcd817d63de122de4">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/classes-36742a836617c6ecc5fa7aeb0f73601723a213c5.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/jars/libs/quickblox-android-sdk-core-2.2.5.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="b5e533a732485196c2a16cb6b8780606b7ecb2ee">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/quickblox-android-sdk-core-2.2.5-34205ca9095d1cdea8138aab3a502b103315f3f5.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/Utilities/Utilities/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-4a53c6cd8a4ab09db02322eddc8c5340ea33ee04.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/library-2.4.0-7d6f4bba530270076316ee434750702eaa6fec2d.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/cropper/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="a7dedc895b92097cdf1c2d415f1980986a7e2038">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/classes-a3fc6d2e5c94c529f1468ce02f6b3bb7db69ad81.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/okio-1.4.0-3b2755a8f170758eb4b449af760e9766f8c88b5b.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library/0.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="6ca319f998430aa20c4dde97ba6df213d6cf3dd0">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/classes-dfe703927b0c41269f6c4fb15fc28d4644537ca2.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/jars/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/classes-d0be684d84be123cb6bb447a9411a4f24ee8ffd1.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="d8725f233ca42c910a25060277a6beca10fb45d9">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/classes-6f5f7052682faf2cc0bf005acf94258a8b61b6f9.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/gson-2.3.1-d70b048bf49da749161be50bc1425c6c5335405d.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-2250dff548cba272dcb5d0b3e390fe670a73380a.jar" />
+    </item>
+    <item
+        jar="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/jars/libs/quickblox-android-sdk-videochat-webrtc-2.2.4.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="9804fc8b3d7a50ae2080e2c5f81e4b523e1d26ab">
+        <dex dex="/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/pre-dexed/debug/quickblox-android-sdk-videochat-webrtc-2.2.4-6d3a5583332121cf131ffc037eb5297a6b7268d2.jar" />
+    </item>
+
+</items>

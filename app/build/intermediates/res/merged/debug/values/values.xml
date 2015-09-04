@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="dlg_attach_types_array">
+        <item>Take Photo</item>
+        <item>From Library</item>
+    </string-array>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string-array name="friends_relation_statuses_array">
+        <item>none</item>
+        <item>to</item>
+        <item>both</item>
+        <item>from</item>
+        <item>remove</item>
+    </string-array>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="nvd_items_array">
+        <item>Chats</item>
+        <item>Rooms</item>
+        <item>Contacts</item>
+        <!--<item>Invite Friends</item>-->
+        <item>Settings</item>
+        <!--<item>Give Feedback</item>-->
+    </string-array>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/vpi__attrs.xml -->
+    <eat-comment/>
+    <attr format="boolean" name="centered"/>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/cropper/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <attr format="reference" name="cropImageStyle"/>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.chrisbanes.actionbarpulltorefresh/library/0.9.9/res/values/values.xml -->
+    <eat-comment/>
+    <attr format="reference" name="ptrHeaderStyle"/>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/vpi__attrs.xml -->
+    <eat-comment/>
+    <attr format="color" name="selectedColor"/>
+    <attr format="dimension" name="strokeWidth"/>
+    <attr format="color" name="unselectedColor"/>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library/0.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <bool name="spb_default_mirror_mode">false</bool>
+    <bool name="spb_default_progressiveStart_activated">false</bool>
+    <bool name="spb_default_reversed">false</bool>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="action_bar_background_color">#4CAF50</color>
+    <color name="action_button_bar">#f3f3f3</color>
+    <color name="action_button_text">#666666</color>
+    <color name="action_selector_focused">#77000000</color>
+    <color name="action_selector_pressed">#1a000000</color>
+    <color name="avatar_border_color">#ffffff</color>
+    <color name="badge_online_color">#1cba48</color>
+    <color name="badge_participants_counter_color">#0d70b3</color>
+    <color name="badge_unread_messages_counter_color">#d20000</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0d70b3</color>
+    <color name="button_blue_normal_color">#0d70b3</color>
+    <color name="button_blue_pressed_color">#ff0d5389</color>
+    <color name="button_end_call_normal_color">#ff0000</color>
+    <color name="button_end_call_pressed_color">#e4f4ff</color>
+    <color name="button_facebook_normal_color">#3b5998</color>
+    <color name="button_facebook_pressed_color">#ff265198</color>
+    <color name="button_global_search_normal_color">#00bf28</color>
+    <color name="button_global_search_pressed_color">#00851c</color>
+    <color name="button_log_in_normal_color">#00bf28</color>
+    <color name="button_log_in_pressed_color">#00851c</color>
+    <color name="button_null_background_pressed_color">#e4f4ff</color>
+    <color name="button_sign_up_normal_blue_color">#0077cb</color>
+    <color name="button_sign_up_normal_green_color">#00bf28</color>
+    <color name="button_sign_up_pressed_blue_color">#00538e</color>
+    <color name="button_sign_up_pressed_green_color">#00851c</color>
+    <color name="chat_attach_background_color">#ffd9d9d9</color>
+    <color name="chat_background_color">#f5f5f5</color>
+    <color name="chat_emoji_panel_color">#ff303030</color>
+    <color name="chat_emoji_tabs_color">#ff202020</color>
+    <color name="circle_view_mask_color">#ffffff</color>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/facebook/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="com_facebook_blue">#3B5998</color>
+    <color name="com_facebook_loginview_text_color">#FFFFFF</color>
+    <color name="com_facebook_picker_search_bar_background">#f5f5f7</color>
+    <color name="com_facebook_picker_search_bar_text">#bcbdc2</color>
+    <color name="com_facebook_usersettingsfragment_connected_shadow_color">#000000</color>
+    <color name="com_facebook_usersettingsfragment_connected_text_color">#FFFFFF</color>
+    <color name="com_facebook_usersettingsfragment_not_connected_text_color">#A6AED7</color>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values/common_colors.xml -->
+    <eat-comment/>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/cropper/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <color name="crop__button_bar">#f3f3f3</color>
+    <color name="crop__button_text">#666666</color>
+    <color name="crop__selector_focused">#77000000</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="dark_gray">#ff6c6c6c</color>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.chrisbanes.actionbarpulltorefresh/library/0.9.9/res/values/values.xml -->
+    <eat-comment/>
+    <color name="default_progress_bar_color">#FF33B5E5</color>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="dlg_message_name_color">#0d70b3</color>
+    <color name="gray">#999999</color>
+    <color name="green">#1cba48</color>
+    <color name="header_date_color">#ffd5d5d5</color>
+    <color name="light_blue">#ff0d8cd1</color>
+    <color name="light_gray">#ffefefef</color>
+    <color name="link_text_color">#0d70b3</color>
+    <color name="list_item_background_pressed_color">#e4f4ff</color>
+    <color name="menu_item_background_activated_color">#1cba48</color>
+    <color name="menu_item_background_longpressed_color">#ff9de8a2</color>
+    <color name="menu_item_background_pressed_color">#1cba48</color>
+    <color name="red">#ff0000</color>
+    <color name="screen_call_background_color">#333333</color>
+    <color name="screen_call_timer_text_color">#999999</color>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library/0.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <color name="spb_default_color">#33b5e5</color>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values/wallet_colors.xml -->
+    <eat-comment/>
+    <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="wallet_bright_foreground_holo_light">#ff000000</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="wallet_dim_foreground_holo_dark">#bebebe</color>
+    <color name="wallet_dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+    <color name="wallet_dim_foreground_inverse_holo_dark">#323232</color>
+    <color name="wallet_highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="wallet_highlighted_text_holo_light">#6633b5e5</color>
+    <color name="wallet_hint_foreground_holo_dark">#808080</color>
+    <color name="wallet_hint_foreground_holo_light">#808080</color>
+    <color name="wallet_holo_blue_light">#ff33b5e5</color>
+    <color name="wallet_link_text_light">#0000ee</color>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="CropImageView"><attr format="reference|color" name="highlightColor"/><attr format="boolean" name="showThirds"/><attr name="showHandles"><enum name="changing" value="0"/><enum name="always" value="1"/><enum name="never" value="2"/></attr></declare-styleable>
+    <declare-styleable name="Emojicon"><attr format="dimension" name="emojiconSize"/></declare-styleable>
+    <declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/></declare-styleable>
+    <declare-styleable name="MaskedImageView"><attr format="integer" name="mask"/></declare-styleable>
+    <declare-styleable name="PullToRefreshHeader"><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|dimension" name="ptrHeaderHeight"/><attr format="reference" name="ptrHeaderTitleTextAppearance"/><attr format="reference|color" name="ptrProgressBarColor"/><attr name="ptrProgressBarStyle"><flag name="inside" value="0x0"/><flag name="outside" value="0x1"/></attr><attr format="reference|dimension" name="ptrProgressBarHeight"/><attr format="reference|string" name="ptrPullText"/><attr format="reference|string" name="ptrRefreshingText"/><attr format="reference|string" name="ptrReleaseText"/><attr format="reference" name="ptrSmoothProgressBarStyle"/></declare-styleable>
+    <declare-styleable name="PullToRefreshView"><attr format="reference|string" name="ptrViewDelegateClass"/></declare-styleable>
+    <declare-styleable name="RoundedImageView"><attr format="dimension" name="corner_radius"/><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/><attr format="boolean" name="mutate_background"/><attr format="boolean" name="oval"/><attr name="android:scaleType"/></declare-styleable>
+    <declare-styleable name="SmoothProgressBar"><attr format="reference" name="spbStyle"/><attr format="color" name="spb_color"/><attr format="dimension" name="spb_stroke_width"/><attr format="dimension" name="spb_stroke_separator_length"/><attr format="integer" name="spb_sections_count"/><attr format="float" name="spb_speed"/><attr format="float" name="spb_progressiveStart_speed"/><attr format="float" name="spb_progressiveStop_speed"/><attr format="enum" name="spb_interpolator"><enum name="spb_interpolator_accelerate" value="0"/><enum name="spb_interpolator_linear" value="1"/><enum name="spb_interpolator_acceleratedecelerate" value="2"/><enum name="spb_interpolator_decelerate" value="3"/></attr><attr format="boolean" name="spb_reversed"/><attr format="boolean" name="spb_mirror_mode"/><attr format="reference" name="spb_colors"/><attr format="boolean" name="spb_progressiveStart_activated"/><attr format="reference" name="spb_background"/><attr format="boolean" name="spb_generate_background_with_colors"/></declare-styleable>
+    <declare-styleable name="StickyListHeadersListView"><attr name="android:clipToPadding"/><attr name="android:scrollbars"/><attr name="android:overScrollMode"/><attr name="android:padding"/><attr name="android:paddingLeft"/><attr name="android:paddingTop"/><attr name="android:paddingRight"/><attr name="android:paddingBottom"/><attr name="android:fadingEdgeLength"/><attr name="android:requiresFadingEdge"/><attr name="android:cacheColorHint"/><attr name="android:choiceMode"/><attr name="android:drawSelectorOnTop"/><attr name="android:fastScrollEnabled"/><attr name="android:fastScrollAlwaysVisible"/><attr name="android:listSelector"/><attr name="android:scrollingCache"/><attr name="android:scrollbarStyle"/><attr name="android:divider"/><attr name="android:dividerHeight"/><attr name="android:transcriptMode"/><attr format="boolean" name="hasStickyHeaders"/><attr format="boolean" name="isDrawingListUnderStickyHeader"/></declare-styleable>
+    <declare-styleable name="SwipeListView"><attr format="boolean" name="swipeOpenOnLongPress"/><attr format="integer" name="swipeAnimationTime"/><attr format="dimension" name="swipeOffsetLeft"/><attr format="dimension" name="swipeOffsetRight"/><attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/><attr format="reference" name="swipeFrontView"/><attr format="reference" name="swipeBackView"/><attr format="enum" name="swipeMode"><enum name="none" value="0"/><enum name="both" value="1"/><enum name="right" value="2"/><enum name="left" value="3"/></attr><attr format="enum" name="swipeActionLeft"><enum name="reveal" value="0"/><enum name="dismiss" value="1"/><enum name="choice" value="2"/></attr><attr format="enum" name="swipeActionRight"><enum name="reveal" value="0"/><enum name="dismiss" value="1"/><enum name="choice" value="2"/></attr><attr format="reference" name="swipeDrawableChecked"/><attr format="reference" name="swipeDrawableUnchecked"/></declare-styleable>
+    <declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle"><enum name="none" value="0"/><enum name="triangle" value="1"/><enum name="underline" value="2"/></attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition"><enum name="bottom" value="0"/><enum name="top" value="1"/></attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable>
+    <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="theme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
+    <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_friend_picker_fragment"><attr format="boolean" name="multi_select"/></declare-styleable>
+    <declare-styleable name="com_facebook_login_view"><attr format="boolean" name="confirm_logout"/><attr format="boolean" name="fetch_user_info"/><attr format="string" name="login_text"/><attr format="string" name="logout_text"/></declare-styleable>
+    <declare-styleable name="com_facebook_picker_fragment"><attr format="boolean" name="show_pictures"/><attr format="string" name="extra_fields"/><attr format="boolean" name="show_title_bar"/><attr format="string" name="title_text"/><attr format="string" name="done_button_text"/><attr format="reference" name="title_bar_background"/><attr format="reference" name="done_button_background"/></declare-styleable>
+    <declare-styleable name="com_facebook_place_picker_fragment"><attr format="integer" name="radius_in_meters"/><attr format="integer" name="results_limit"/><attr format="string" name="search_text"/><attr format="boolean" name="show_search_box"/></declare-styleable>
+    <declare-styleable name="com_facebook_profile_picture_view"><attr name="preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="is_cropped"/></declare-styleable>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="act_call_avatar_size">150dp</dimen>
+    <dimen name="act_call_end_button_height">50dp</dimen>
+    <dimen name="act_call_end_button_width">200dp</dimen>
+    <dimen name="act_call_margin_top">50dp</dimen>
+    <dimen name="act_call_name_size">25sp</dimen>
+    <dimen name="act_call_video_scr_opponent_height">150dp</dimen>
+    <dimen name="act_call_video_scr_opponent_width">200dp</dimen>
+    <dimen name="actionButtonsLeftMarigin">20dp</dimen>
+    <dimen name="action_bar_height">48dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="avatar_border_width">1dp</dimen>
+    <dimen name="avatar_height">70dp</dimen>
+    <dimen name="avatar_width">70dp</dimen>
+    <dimen name="button_fb_height">70dp</dimen>
+    <dimen name="button_height">50dp</dimen>
+    <dimen name="button_icon_margin">10dp</dimen>
+    <dimen name="button_text_size">18sp</dimen>
+    <dimen name="chat_attach_height">200dp</dimen>
+    <dimen name="chat_attach_width">200dp</dimen>
+    <dimen name="chat_babble_margin">30dp</dimen>
+    <dimen name="chat_button_reply_height">30dp</dimen>
+    <dimen name="chat_emoji_item_preview_size">25dp</dimen>
+    <dimen name="chat_emoji_item_size">30dp</dimen>
+    <dimen name="chat_emojis_tab_height">50dp</dimen>
+    <dimen name="chat_input_message_height">50dp</dimen>
+    <dimen name="chat_message_typing_view_height">50dp</dimen>
+    <dimen name="chat_message_typing_view_width">80dp</dimen>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/facebook/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="com_facebook_loginview_compound_drawable_padding">12dp</dimen>
+    <dimen name="com_facebook_loginview_padding_bottom">12dp</dimen>
+    <dimen name="com_facebook_loginview_padding_left">12dip</dimen>
+    <dimen name="com_facebook_loginview_padding_right">16dp</dimen>
+    <dimen name="com_facebook_loginview_padding_top">12dp</dimen>
+    <dimen name="com_facebook_loginview_text_size">16.0sp</dimen>
+    <dimen name="com_facebook_picker_place_image_size">64dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_large">180dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_normal">100dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_small">50dp</dimen>
+    <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
+    <dimen name="com_facebook_usersettingsfragment_profile_picture_height">64dp</dimen>
+    <dimen name="com_facebook_usersettingsfragment_profile_picture_width">64dp</dimen>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="corners_big_value">15dp</dimen>
+    <dimen name="corners_middle_value">10dp</dimen>
+    <dimen name="corners_small_value">5dp</dimen>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/cropper/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="crop__bar_height">48dp</dimen>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="crop_view_height">300dp</dimen>
+    <dimen name="crop_view_width">300dp</dimen>
+    <dimen name="divider_height">1dip</dimen>
+    <dimen name="divider_width">1dip</dimen>
+    <dimen name="dlg_avatar_new_message_wh">30dp</dimen>
+    <dimen name="friends_request_message_height">50dp</dimen>
+    <dimen name="image_view_avatar_border_width">1dp</dimen>
+    <dimen name="image_view_big_avatar_layout_height">70dp</dimen>
+    <dimen name="image_view_big_avatar_layout_width">70dp</dimen>
+    <dimen name="image_view_small_avatar_layout_height">53dp</dimen>
+    <dimen name="image_view_small_avatar_layout_width">53dp</dimen>
+    <dimen name="inf_list_item_height">48dp</dimen>
+    <dimen name="localVideoViewHeight">100dp</dimen>
+    <dimen name="localVideoViewWidth">75dp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.chrisbanes.actionbarpulltorefresh/library/0.9.9/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="ptr_progress_bar_stroke_width">4dp</dimen>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="remoteVideoViewHeight">360dp</dimen>
+    <dimen name="remoteVideoViewWidth">270dp</dimen>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library/0.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="spb_default_stroke_separator_length">4dp</dimen>
+    <dimen name="spb_default_stroke_width">4dp</dimen>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_small">15sp</dimen>
+    <dimen name="tip_height">250dp</dimen>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/facebook/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <drawable name="com_facebook_picker_default_separator_color">#33464c59</drawable>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.chrisbanes.actionbarpulltorefresh/library/0.9.9/res/values/values.xml -->
+    <eat-comment/>
+    <item name="ptr_content" type="id"/>
+    <item name="ptr_progress" type="id"/>
+    <item name="ptr_text" type="id"/>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values/version.xml -->
+    <eat-comment/>
+    <integer name="google_play_services_version">5089000</integer>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library/0.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <integer name="spb_default_interpolator">0</integer>
+    <integer name="spb_default_sections_count">4</integer>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="acb_add_chat_title">Add Chat</string>
+    <string name="acb_add_friend_to_chat_title">Add friend to Chat</string>
+    <string name="acb_chat_attach_title">Add attach</string>
+    <string name="acb_chat_details_title">Chat details</string>
+    <string name="acb_delete_friend_title">Delete Friend</string>
+    <string name="acb_leave_chat_title">Leave Chat</string>
+    <string name="acb_search_title">Search</string>
+    <string name="afg_title">Add Friends</string>
+    <string name="app_name">Social Messenger</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="cht_notification_message">Notification message</string>
+    <string name="cht_update_group_added_message">%1$s has added %2$s to the group chat</string>
+    <string name="cht_update_group_create_message">%1$s has added %2$s</string>
+    <string name="cht_update_group_leave_message">%1$s has left</string>
+    <string name="cht_update_group_name_message">%1$s has changed the chat name to %2$s</string>
+    <string name="cht_update_group_photo_message">%1$s has changed the chat picture</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="cll_incoming_call_audio">Incoming Call</string>
+    <string name="cll_incoming_call_video">Incoming Video Call</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/facebook/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="com_facebook_choose_friends">Choose Friends</string>
+    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_logo_content_description">Facebook Logo</string>
+    <string name="com_facebook_nearby">Nearby</string>
+    <string name="com_facebook_picker_done_button_text">Done</string>
+    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
+    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$,d were here</string>
+    <string name="com_facebook_placepicker_subtitle_were_here_only_format">%1$,d were here</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_relogin">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_web_login">Your Facebook account is locked. Please log into www.facebook.com to continue.</string>
+    <string name="com_facebook_tooltip_default">New! You\'re in control - choose what info you want to share with apps.</string>
+    <string name="com_facebook_usersettingsfragment_log_in_button">Log in…</string>
+    <string name="com_facebook_usersettingsfragment_logged_in">Logged in</string>
+    <string name="com_facebook_usersettingsfragment_not_logged_in">Not logged in</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="comming_soon">Will be implemented soon</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">This app won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_date_text">The date on the device appears to be incorrect. Please check the date on the device.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">This app won\'t run unless you update Google Play services.</string>
+    <string msgid="1788179980625863495" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="connection_lost">Connection was lost. Please, check your internet connection</string>
+    <string name="connection_lost_title">Connection was lost</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="cpw_change">Change</string>
+    <string name="cpw_change_password_title">Change Password</string>
+    <string name="cpw_new_password">New Password</string>
+    <string name="cpw_not_new_password_field_entered">Please enter new password</string>
+    <string name="cpw_not_old_password_field_entered">Please enter old password</string>
+    <string name="cpw_old_password">Old Password</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/cropper/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="crop__cancel" ns1:ignore="ButtonCase">CANCEL</string>
+    <string name="crop__done">DONE</string>
+    <string name="crop__pick_error">No image sources available</string>
+    <string name="crop__saving">Saving picture…</string>
+    <string name="crop__wait">Please wait…</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="dlg_attached_last_message">Attachment</string>
+    <string name="dlg_cancel">Cancel</string>
+    <string name="dlg_click_back_again">Please click BACK again to exit</string>
+    <string name="dlg_confirm">Are you sure?</string>
+    <string name="dlg_confirm_sending_attach">Do you really want to send attachment?</string>
+    <string name="dlg_delete_dialog_message">Confirm dialog deletion.</string>
+    <string name="dlg_delete_dialog_title">Delete Dialog?</string>
+    <string name="dlg_done">Done</string>
+    <string name="dlg_empty_email">Email can\'t be empty</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="dlg_fail_connection">Sorry, connection lost. It will be reestablished when the Internet will be available.</string>
+    <string name="dlg_fail_create_chat">Errors occurred while creating chat! Please, try later</string>
+    <string name="dlg_fail_create_groupchat">Errors occurred while creating group chat! Please, try later</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="dlg_fail_rest_login">Couldn\'t authorize on server. Please check your credentials</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="dlg_fail_send_msg">Errors occurred while sending msg! Please, try later</string>
+    <string name="dlg_fail_upload_attach">Errors occurred during loading file</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="dlg_force_relogin_on_token_required">Token error is occured in application. Relogin will be executed now</string>
+    <string name="dlg_friend_removed">You have deleted %1$s from your contacts</string>
+    <string name="dlg_get_file_failed">Failed to get file from gallery</string>
+    <string name="dlg_hint_message">Type a message</string>
+    <string name="dlg_leave_group">Leave Group</string>
+    <string name="dlg_logout">Logout</string>
+    <string name="dlg_message">Message</string>
+    <string name="dlg_microphone_muted">Please, pay attention microphone is muted now</string>
+    <string name="dlg_no_chats">Oops…\nYou don\'t have any chats,\n tap \'+\' icon to create new group chat \nor go in private chat \nvia Friends Details page"</string>
+    <string name="dlg_no_contacts_friends">No Contacts friends</string>
+    <string name="dlg_no_facebook_friends">No Facebook friends</string>
+    <string name="dlg_no_friends">No friends</string>
+    <string name="dlg_no_friends_for_import">There are no friends in Q-municate app</string>
+    <string name="dlg_no_friends_selected">Please, select some Friends for invite!</string>
+    <string name="dlg_no_message_yet">No message yet</string>
+    <string name="dlg_not_all_fields_entered">Please fill all empty input fields</string>
+    <string name="dlg_not_email_field_entered">Please enter email</string>
+    <string name="dlg_not_fullname_field_entered">Please enter Full Name</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="dlg_not_joined_room">You have not joined chat room! Please wait…</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="dlg_not_password_field_entered">Please enter password</string>
+    <string name="dlg_not_username_field_entered">Please enter username</string>
+    <string name="dlg_offline_call"> %1$s is calling you !</string>
+    <string name="dlg_ok">OK</string>
+    <string name="dlg_old_password_wrong">Wrong old password</string>
+    <string name="dlg_password_changed">Password changed</string>
+    <string name="dlg_passwords_not_equal">New password and confirmation are not equal</string>
+    <string name="dlg_refresh_session">QB Session expired. Update session will be executed now</string>
+    <string name="dlg_reply">Reply</string>
+    <string name="dlg_select_attach_type">Select attachments type</string>
+    <string name="dlg_success_posted_to_facebook">Post was added to wall</string>
+    <string name="dlg_success_request_facebook">Request sent</string>
+    <string name="dlg_user_is_not_friend">User is not your friend</string>
+    <string name="dlg_user_updated">User saved</string>
+    <string name="dlg_wait_please">Please, wait</string>
+    <string name="dlg_wrong_signaling">Can\'t perform call. Problem with signaling</string>
+    <string name="dlgs_ctx_menu_remove">Delete dialog</string>
+    <string name="dont_forget_relogin">Please don\'t forget to relogin to restore all app features</string>
+    <string name="error_bad_timestamp">base Bad timestamp</string>
+    <string name="error_bad_timestamp_from_app">Please go to phone system settings, choose date and time and make sure, that auto synchronization is on.</string>
+    <string name="error_email_already_taken">email has already been taken</string>
+    <string name="error_email_already_taken_from_app">Please go to Facebook app and make relogion. This email has already been taken</string>
+    <string name="error_email_already_taken_from_app_without_facebook">Email has already been taken</string>
+    <string name="error_is_too_long_maximum_is_50_characters">full_name is too long (maximum is 50 characters)</string>
+    <string name="error_is_too_long_maximum_is_50_characters_from_app">Name mustn\'t be more than 50 characters</string>
+    <string name="error_name_must_be_more_than_2_characters_from_app">Name must be more than 2 characters</string>
+    <string name="error_name_must_do_not_contain_special_characters_from_app">Name mustn\'t contain \"&lt;\", \">\" and \";\" characters</string>
+    <string name="error_password_must_be_more_than_7_characters_from_app">Password must be more than 7 characters</string>
+    <string name="error_password_must_do_not_be_more_than_40_characters_from_app">Password mustn\'t be more than 40 characters</string>
+    <string name="error_password_must_do_not_contain_non_Latin_characters_and_spaces_from_app">Password mustn\'t contain non-Latin characters and spaces</string>
+    <string name="error_playing_ringtone">Error during playing ringtone</string>
+    <string name="error_playing_wrong_source">Wrong sound resource</string>
+    <string name="error_please_enter_a_valid_email_from_app">Please enter a valid email</string>
+    <string name="error_please_enter_a_valid_username_from_app">Please enter a valid username</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/apikeys.xml -->
+    <eat-comment/>
+    <string name="facebook_app_id">605405446247805</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="facebook_exception">Facebook exception: </string>
+    <string name="fdb_bug_type">Bug</string>
+    <string name="fdb_choose_email_provider">Choose an email provider:</string>
+    <string name="fdb_feedback_label">
+        In your email please provide the steps of bug/error reproduction. Let us know how often it occurs and if it gives any error code.
+        This information will help us to find the source of the issue. Kindly give us as many details as possible. Thank you.
+    </string>
+    <string name="fdb_feedback_title">Feedback Description</string>
+    <string name="fdb_improvement_type">Improvement</string>
+    <string name="fdb_suggestion_type">Suggestion</string>
+    <string name="fdb_support_email">q-municate@quickblox.com</string>
+    <string name="fdb_write_email">Write an Email</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="feature_unavailable">Feature unavailable. Please, check  your internet connection</string>
+    <string name="file_was_attached">file was attached</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="fpw_email">Email</string>
+    <string name="fpw_email_was_sent">Mail was sent to %1$s</string>
+    <string name="fpw_forgot_password_title">Forgot Password</string>
+    <string name="fpw_not_email_field_entered">Please enter email</string>
+    <string name="fpw_reset_password">Reset Password</string>
+    <string name="frd_audio_call">Audio Call</string>
+    <string name="frd_chat">Chat</string>
+    <string name="frd_default_status">I enjoy using Social Messenger!</string>
+    <string name="frd_dlg_remove_friend">Do you really want to delete %1$s from your contact list?</string>
+    <string name="frd_mobile">MOBILE</string>
+    <string name="frd_offline_user">User must be online</string>
+    <string name="frd_title">Details</string>
+    <string name="frd_video_call">Video Call</string>
+    <string name="frl_all_users">All Users</string>
+    <string name="frl_column_header_name_all_users">All Users</string>
+    <string name="frl_column_header_name_my_contacts">My Contacts</string>
+    <string name="frl_column_header_name_requests">Requests</string>
+    <string name="frl_dlg_reject_friend">Do you really want to reject contact request from %1$s?</string>
+    <string name="frl_friends">Friends</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="frl_friends_contact_request">Contact request</string>
+    <string name="frl_friends_request_accept_message_for_friend">Your request has been accepted</string>
+    <string name="frl_friends_request_accept_message_for_me">You have accepted a request</string>
+    <string name="frl_friends_request_message_for_friend">%1$s has sent a request to you</string>
+    <string name="frl_friends_request_message_for_me">Your request has been sent</string>
+    <string name="frl_friends_request_reject_message_for_friend">Your request has been rejected</string>
+    <string name="frl_friends_request_reject_message_for_me">You have rejected a request</string>
+    <string name="frl_friends_request_remove_message_for_friend">%1$s has deleted you from the contact list</string>
+    <string name="frl_friends_request_remove_message_for_me">You have deleted %1$s from the contact list</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="frl_global_search">Global Search</string>
+    <string name="frl_no_friends">Oops…\nYou don\'t have any friends,\ntap search icon to find them \nor invite new ones.</string>
+    <string name="frl_not_found_users">Sorry… no users</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="frl_offline">Offline</string>
+    <string name="frl_online">Online</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="frl_pending_request_status">Pending contact request</string>
+    <string name="frl_pending_status">Waiting…</string>
+    <string name="gdd_all_friends_is_in_group">You can\'t add new friend, because all existing friends are added in this group chat</string>
+    <string name="gdd_group_info_is_loading">Group info is loading, please wait…</string>
+    <string name="gdd_leave_group">Leave group</string>
+    <string name="gdd_name_not_entered">Please fill group name</string>
+    <string name="gdd_online_participants">%1$d/%2$d online</string>
+    <string name="gdd_participants">%1$d participants</string>
+    <string name="gdd_title">Group Details</string>
+    <string name="gdl_ctx_menu_profile">View Profile</string>
+    <string name="gdl_ctx_menu_prv_message">Private Message</string>
+    <string name="gdl_ctx_menu_reply">Reply</string>
+    <string name="gdl_ctx_menu_video_call">Video Call</string>
+    <string name="go">Go</string>
+    <string name="ignore_content_description">ignored</string>
+    <string name="inf_body_of_invitation">Dear friend, use Q-municate application to reach me!\nDownload it here: http://q-municate.com/</string>
+    <string name="inf_choose_email_provider">Choose an email provider:</string>
+    <string name="inf_fb_request_canceled">Request cancelled</string>
+    <string name="inf_fb_wall_param_description">Dear friend, use Q-municate application to reach me!\nDownload it here: http://q-municate.com/</string>
+    <string name="inf_fb_wall_param_link">http://q-municate.com/</string>
+    <string name="inf_fb_wall_param_name">Q-municate</string>
+    <string name="inf_fb_wall_param_picture">http://files.quickblox.com/ic_launcher.png</string>
+    <string name="inf_fb_wall_param_place">155021662189</string>
+    <string name="inf_from_contacts">(invite via Email)</string>
+    <string name="inf_from_facebook">(invite via Facebook)</string>
+    <string name="inf_header_label">Let your other friends know about \n Social Messenger by sending them private invitations</string>
+    <string name="inf_select_from_contacts">From Contacts</string>
+    <string name="inf_select_from_facebook">From Facebook</string>
+    <string name="inf_send">Send</string>
+    <string name="inf_subject_of_invitation">Social MessengerO</string>
+    <string name="inf_url_to_facebook_avatar">https://graph.facebook.com/%1$s/picture?type=large</string>
+    <string name="label_done">Done</string>
+    <string name="lgn_email_hint">Email</string>
+    <string name="lgn_error">This username has not authenticated yet, please check your credentials</string>
+    <string name="lgn_forgot_password">Forgot password?</string>
+    <string name="lgn_log_in_with_facebook">Log in with Facebook</string>
+    <string name="lgn_login">Log In</string>
+    <string name="lgn_password_hint">Password</string>
+    <string name="lgn_remember_me">Remember Me</string>
+    <string name="lgn_username_hint">Username</string>
+    <string name="lnd_connect_with_facebook">Connect with Facebook</string>
+    <string name="lnd_have_account">Login</string>
+    <string name="lnd_no_app_version">Couldn\'t get app version</string>
+    <string name="lnd_sign_up">Sign Up</string>
+    <string name="lnd_version">v. %1$s</string>
+    <string name="local_video_track_received">Local video track received</string>
+    <string name="ndl_ac_mode_title">Group chat participants:</string>
+    <string name="ndl_no_friends_for_new_chat">You don\'t have any Friends for creating New Chat</string>
+    <string name="ndl_title">New Group Chat</string>
+    <string name="nvd_close">Close navigation drawer</string>
+    <string name="nvd_open">Open navigation drawer</string>
+    <string name="nvd_title_chats">Chats</string>
+    <string name="nvd_title_contacts">Contacts</string>
+    <string name="nvd_title_feedback">Feedback</string>
+    <string name="nvd_title_invite_friends">Invite Friends</string>
+    <string name="nvd_title_settings">Settings</string>
+    <string name="nvd_title_web_room">Rooms</string>
+    <string name="pref_title_media">Media</string>
+    <string name="pref_title_presence">Presence</string>
+    <string name="pref_title_profile_and_details">Profile and details</string>
+    <string name="pref_title_push_notifications">Push Notifications</string>
+    <string name="prf_change">Change</string>
+    <string name="prf_done">Done</string>
+    <string name="prf_email">Email</string>
+    <string name="prf_full_name">Full Name</string>
+    <string name="prf_phone">Phone</string>
+    <string name="prf_status_message">Status Message</string>
+    <string name="prf_title">Profile</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.chrisbanes.actionbarpulltorefresh/library/0.9.9/res/values/values.xml -->
+    <eat-comment/>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/apikeys.xml -->
+    <eat-comment/>
+    <string name="push_registration_app_id">1062134082193</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="push_title">Missed messages</string>
+    <string name="relgn_fail">Relogin was failed. Forse app restart will be executed</string>
+    <string name="relgn_forse_message">Relogin was failed.Are you agree to start forse relogin which restart whole app</string>
+    <string name="relgn_success">Relogin was successfully executed after  losing the Internet connection</string>
+    <string name="remote_video_track_received">Remote video track received</string>
+    <string name="search_hint">Search</string>
+    <string name="session_closed">Session was closed</string>
+    <string name="session_start_close">Session start close</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library/0.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <item format="float" name="spb_default_speed" type="string">1.0</item>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="stn_change_password">Change Password</string>
+    <string name="stn_logout">Log Out</string>
+    <string name="stn_profile">Profile</string>
+    <string name="stn_push_notifivation">Push Notification</string>
+    <string name="stn_version">Version %1$s</string>
+    <string name="sup_choose_user_picture">Choose user picture</string>
+    <string name="sup_email_hint">Email</string>
+    <string name="sup_fullname_hint">Full Name</string>
+    <string name="sup_sign_up">Sign Up</string>
+    <string name="sup_username_hint">Username</string>
+    <string name="team_members">Cobil Social Messenger\n\nby\n\nLuigi Versoza\nRobin Evangelista\nLyka Susada\nJeffrey Racca\n\nGroup: IT303</string>
+    <string name="uag_policy_link">http://q-municate.com/agreement/</string>
+    <string name="uag_user_agreement">By clicking Sign Up, you agree to \nSocial Messenger <b><u>User Agreement</u></b></string>
+    <string name="uag_user_agreement_title">User Agreement</string>
+    <string name="uploading_file">Uploading… Please wait</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/core/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="user_created_room">%1$s created group chat</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="user_hang_up_call">User has hung up a call</string>
+    <string name="user_not_answer">User hasn’t answered</string>
+    <string name="user_read_message">%1$s read message</string>
+    <string name="user_reject_call">User is busy</string>
+    <string name="user_was_not_found_in_db">User wasn\'t found in base</string>
+    <string name="videochat_init_fail">Unfortunately, call was closed! It is impossible to initialize multimedia resources on your device</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values/wallet_strings.xml -->
+    <eat-comment/>
+    <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="ActionButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/action_selectable_background</item>
+    </style>
+    <style name="ActionButtonText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingRight">20dp</item> <!-- Offsets left drawable -->
+        <item name="android:drawablePadding">8dp</item>
+        <item name="android:textColor">@color/action_button_text</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="ActionButtonText.Cancel">
+        <item name="android:drawableLeft">@drawable/ic_action_cancel</item>
+        <item name="android:text">@string/dlg_cancel</item>
+    </style>
+    <style name="ActionButtonText.Done">
+        <item name="android:drawableLeft">@drawable/ic_action_done</item>
+        <item name="android:text">@string/dlg_done</item>
+    </style>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:actionModeStyle">@style/MyActionMode</item>
+    </style>
+    <style name="AppTheme.NoActionBar" parent="android:Theme.Holo.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="AvatarImageView">
+        <item name="android:layout_width">@dimen/image_view_big_avatar_layout_width</item>
+        <item name="android:layout_height">@dimen/image_view_big_avatar_layout_height</item>
+        <item name="android:layout_gravity">center|top</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:src">@drawable/placeholder_user</item>
+    </style>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/cropper/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="Crop"/>
+    <style name="Crop.ActionButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/crop__selectable_background</item>
+    </style>
+    <style name="Crop.ActionButtonText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingRight">20dp</item> <!-- Offsets left drawable -->
+        <item name="android:drawablePadding">8dp</item>
+        <item name="android:textColor">@color/crop__button_text</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+    <style name="Crop.ActionButtonText.Cancel">
+        <item name="android:drawableLeft">@drawable/crop__ic_cancel</item>
+        <item name="android:text">@string/crop__cancel</item>
+    </style>
+    <style name="Crop.ActionButtonText.Done">
+        <item name="android:drawableLeft">@drawable/crop__ic_done</item>
+        <item name="android:text">@string/crop__done</item>
+    </style>
+    <style name="Crop.DoneCancelBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/crop__bar_height</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:divider">@drawable/crop__divider</item>
+        <item name="android:showDividers" ns1:ignore="NewApi">middle</item>
+        <item name="android:dividerPadding" ns1:ignore="NewApi">12dp</item>
+        <item name="android:background">@color/crop__button_bar</item>
+    </style>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="DoneCancelBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/action_bar_height</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:divider">@drawable/ic_action_divider</item>
+        <item name="android:showDividers" ns1:ignore="NewApi">middle</item>
+        <item name="android:dividerPadding" ns1:ignore="NewApi">12dp</item>
+        <item name="android:background">@color/action_button_bar</item>
+    </style>
+    <style name="EmojiTabImageButton" parent="android:Widget.ImageButton">
+        <item name="android:background">@drawable/tab_emoji_selector</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="IndeterminateProgressStyle" parent="@android:style/Widget.ProgressBar">
+        <item name="android:minHeight">24dp</item>
+        <item name="android:maxHeight">24dp</item>
+        <item name="android:minWidth">32dp</item>
+        <item name="android:maxWidth">32dp</item>
+    </style>
+    <style name="MyActionBar" parent="android:Widget.ActionBar">
+        <item name="android:background">@color/action_bar_background_color</item>
+        <item name="android:displayOptions">showTitle</item>
+        <item name="android:titleTextStyle">@style/MyActionBarTitleText</item>
+        <item name="android:indeterminateProgressStyle">@style/IndeterminateProgressStyle</item>
+    </style>
+    <style name="MyActionBarTitleText" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="MyActionMode">
+        <item name="android:actionModeCloseDrawable">@drawable/badge_action_mode</item>
+        <item name="android:actionModeBackground">@drawable/badge_action_mode</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:titleTextStyle">@style/MyActionModeTitleText</item>
+    </style>
+    <style name="MyActionModeTitleText" parent="android:TextAppearance.Holo.Widget.ActionMode.Title">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library/0.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="SmoothProgressBar" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="spb_color">@color/spb_default_color</item>
+        <item name="spb_sections_count">@integer/spb_default_sections_count</item>
+        <item name="spb_speed">@string/spb_default_speed</item>
+        <item name="spb_stroke_width">@dimen/spb_default_stroke_width</item>
+        <item name="spb_stroke_separator_length">@dimen/spb_default_stroke_separator_length</item>
+        <item name="spb_reversed">@bool/spb_default_reversed</item>
+        <item name="spb_mirror_mode">@bool/spb_default_mirror_mode</item>
+        <item name="spb_progressiveStart_activated">@bool/spb_default_progressiveStart_activated</item>
+        <item name="spb_background">@null</item>
+        <item name="spb_generate_background_with_colors">false</item>
+    </style>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values/admob_iap_style.xml -->
+    <eat-comment/>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.github.castorflex.smoothprogressbar/library/0.4.0/res/values/values.xml -->
+    <eat-comment/>
+    <style name="Theme.SmoothProgressBarDefaults" parent="android:Theme">
+        <item name="spbStyle">@style/SmoothProgressBar</item>
+    </style>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.89/res/values/wallet_styles.xml -->
+    <eat-comment/>
+    <style name="WalletFragmentDefaultButtonTextAppearance">
+        <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_light</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_light</item>
+        <item name="android:textColorLink">@color/wallet_link_text_light</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsHeaderTextAppearance" parent="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textColor">@color/wallet_secondary_text_holo_dark</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_dark</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_dark</item>
+        <item name="android:textColorLink">@color/wallet_holo_blue_light</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultStyle">
+        <item name="buyButtonHeight">48dp</item>
+        <item name="buyButtonWidth">match_parent</item>
+        <item name="buyButtonText">buy_with_google</item>
+        <item name="buyButtonAppearance">classic</item>
+        <item name="maskedWalletDetailsTextAppearance">@style/WalletFragmentDefaultDetailsTextAppearance</item>
+        <item name="maskedWalletDetailsHeaderTextAppearance">@style/WalletFragmentDefaultDetailsHeaderTextAppearance</item>
+        <item name="maskedWalletDetailsBackground">@color/wallet_bright_foreground_holo_light</item>
+        <item name="maskedWalletDetailsButtonBackground">@android:drawable/btn_default</item>
+        <item name="maskedWalletDetailsButtonTextAppearance">@style/WalletFragmentDefaultButtonTextAppearance</item>
+        <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
+        <item name="maskedWalletDetailsLogoImageType">classic</item>
+    </style>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="baseToggleBtn">
+
+        <item name="android:textOff"/>
+        <item name="android:textOn"/>
+    </style>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/facebook/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="com_facebook_loginview_default_style" parent="@android:style/Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/com_facebook_button_blue</item>
+        <item name="android:textColor">@color/com_facebook_loginview_text_color</item>
+        <item name="android:textSize">@dimen/com_facebook_loginview_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">@dimen/com_facebook_loginview_padding_left</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="com_facebook_loginview_silver_style" parent="@android:style/Widget.Button">
+        <item name="android:width">205dp</item>
+        <item name="android:height">44dp</item>
+        <item name="android:background">@drawable/com_facebook_loginbutton_silver</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#4B5164</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="tooltip_bubble_text">
+	    <item name="android:textColor">@android:color/white</item>
+	    <item name="android:gravity">left</item>
+	    <item name="android:textSize">12sp</item>
+	    <item name="android:shadowDy">-1</item>
+	    <item name="android:shadowRadius">0.25</item>
+	    <item name="android:shadowColor">#40000000</item>
+    </style>
+</resources>

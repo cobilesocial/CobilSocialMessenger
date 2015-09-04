@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_delete"
+        android:title="@string/dlgs_ctx_menu_remove" />
+</menu><!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/menu/dialogs_list_ctx_menu.xml -->

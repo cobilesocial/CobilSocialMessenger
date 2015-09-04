@@ -1,0 +1,4 @@
+<View xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/divider_height"
+    android:background="@android:color/darker_gray" /><!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/layout/view_separator_gray.xml -->

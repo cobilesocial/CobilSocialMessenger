@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_login"
+        android:showAsAction="ifRoom"
+        android:title="@string/lgn_login" />
+</menu><!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/src/main/res/menu/registration_menu.xml -->

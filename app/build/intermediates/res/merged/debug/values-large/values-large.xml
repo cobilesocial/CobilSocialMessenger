@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/andrewconcepcion/Utilities/AndroidProjects/projects/SocialMessenger2/app/build/intermediates/exploded-aar/SocialMessenger2/cropper/unspecified/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <dimen name="crop__bar_height">56dp</dimen>
+</resources>
